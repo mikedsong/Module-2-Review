@@ -1,0 +1,15 @@
+C:\Users\micha\Desktop\repos\Module 2 review\Module 2 review\bin\Debug\net9.0\Module 2 review.exe
+C:\Users\micha\Desktop\repos\Module 2 review\Module 2 review\bin\Debug\net9.0\Module 2 review.deps.json
+C:\Users\micha\Desktop\repos\Module 2 review\Module 2 review\bin\Debug\net9.0\Module 2 review.runtimeconfig.json
+C:\Users\micha\Desktop\repos\Module 2 review\Module 2 review\bin\Debug\net9.0\Module 2 review.dll
+C:\Users\micha\Desktop\repos\Module 2 review\Module 2 review\bin\Debug\net9.0\Module 2 review.pdb
+C:\Users\micha\Desktop\repos\Module 2 review\Module 2 review\obj\Debug\net9.0\Module 2 review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Desktop\repos\Module 2 review\Module 2 review\obj\Debug\net9.0\Module 2 review.AssemblyInfoInputs.cache
+C:\Users\micha\Desktop\repos\Module 2 review\Module 2 review\obj\Debug\net9.0\Module 2 review.AssemblyInfo.cs
+C:\Users\micha\Desktop\repos\Module 2 review\Module 2 review\obj\Debug\net9.0\Module 2 review.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\repos\Module 2 review\Module 2 review\obj\Debug\net9.0\Module 2 review.sourcelink.json
+C:\Users\micha\Desktop\repos\Module 2 review\Module 2 review\obj\Debug\net9.0\Module 2 review.dll
+C:\Users\micha\Desktop\repos\Module 2 review\Module 2 review\obj\Debug\net9.0\refint\Module 2 review.dll
+C:\Users\micha\Desktop\repos\Module 2 review\Module 2 review\obj\Debug\net9.0\Module 2 review.pdb
+C:\Users\micha\Desktop\repos\Module 2 review\Module 2 review\obj\Debug\net9.0\Module 2 review.genruntimeconfig.cache
+C:\Users\micha\Desktop\repos\Module 2 review\Module 2 review\obj\Debug\net9.0\ref\Module 2 review.dll
