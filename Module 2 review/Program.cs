@@ -32,6 +32,7 @@ public class Program
                ListOfGrades += ", ";
            }
            Console.WriteLine($"Student {student.Name} has id of {student.ID} and has grade of {ListOfGrades} and the average grade is {student.CalculateAverageGrade()}");
+           ListOfGrades = "";
        }
     }
 }
